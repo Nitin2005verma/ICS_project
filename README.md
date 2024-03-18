@@ -23,4 +23,5 @@ First user will see four options ordered 1 to 4.
 - 4.Determinant
  - According to the need of user, he/she selects one. 
 Accordingly the program asks user to input more data about the matrix operation that they wanna perform.
-As inputs the information, it will ask for info for next few steps. At last it shows the correct ouput.
+As inputs the information, it will ask for info for next few steps. At last it shows the desired ouput.
+[preview of readme](https://github.com/Nitin2005verma/ICS_project/blob/main/README.md)
